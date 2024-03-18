@@ -1,7 +1,8 @@
-const name = "PJ";
-const campus = "Bordeaux";
+let wilder = {
+    name: "pj",
+    campus: "Bordeaux",
+};
 
 module.exports = {
-    name: name,
-    campus: campus,
+   wilder: wilder,
 };
